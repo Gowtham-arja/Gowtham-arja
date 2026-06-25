@@ -25,11 +25,9 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final year **Electrical Engineering** student at **NIT Agartala** (CGPA: 8.01), self-taught in CS & Software Development
-- 🔨 Currently building a **Mini Online Code Judge** — Docker sandboxing, async job queues, REST APIs
+- 🎓 Final year **Electrical Engineering** student at **NIT Agartala**, self-taught in CS & Software Development
 - 🤝 Contributing to open source via **GSSoC 2026** and **Hacktoberfest**
 - 📚 Grinding **DSA** daily and mastering **CS fundamentals** (DBMS, OS, CN, OOPs)
-- 🏆 Cleared **Amazon ML Summer School 2026 Round 1**
 - 🥈 **2nd place** in school-level Mathematical Olympiad
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Docker, React**
 - 🎯 Goal: Land an **SDE role at a product-based company**
