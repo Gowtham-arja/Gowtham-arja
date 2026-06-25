@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -64,7 +66,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 🤖 [ReplyMate](https://github.com/Gowtham-arja/ReplyMate-BackEnd)
+### 🤖 [ReplyMate](https://github.com/Gowtham-arja/ReplyMate)
 > AI-powered reply generation tool built with **Spring Boot + React + Docker**
 
 - Integrates **LLaMA 3.3 70B** via Groq API for context-aware reply suggestions
