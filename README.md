@@ -102,22 +102,11 @@ Here are some ideas to get you started:
 - Async job queue for handling concurrent judge requests
 - REST API backend · Verdict engine (AC / WA / TLE / RE)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-arja&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-arja&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-
----
 
 ## 🏅 Achievements & Activities
 
-- 🟢 **GSSoC 2026** — Active open source contributor
-- 🎃 **Hacktoberfest** participant
+- 🎃 **Hacktoberfest** open source contributor
+- 🏆 **TATA Hackathon** — Participant
 - 🧠 **Amazon ML Summer School 2026** — Cleared Round 1
 - 🥈 **Mathematical Olympiad** — 2nd place (School level)
 
