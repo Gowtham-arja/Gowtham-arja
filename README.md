@@ -71,6 +71,15 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
+### ⚙️ [Distributed Task Queue System](https://github.com/Gowtham-arja/distributed-task-queue)
+> Fault-tolerant distributed job queue built with **Java + Spring Boot + Redis + Docker**
+
+- Implements **Redis BRPOP-based queuing** with a 5-state task lifecycle for full traceability
+- Heartbeat/TTL-based liveness detection auto-recovers tasks from crashed workers
+- Dead Letter Queue isolates repeatedly failing tasks instead of losing or endlessly retrying them
+- Real-time **WebSocket dashboard** for live queue depth and worker health monitoring
+
+---
 ### 🤖 [ReplyMate](https://github.com/Gowtham-arja/ReplyMate)
 > AI-powered reply generation tool built with **Spring Boot + React + Docker**
 
@@ -79,21 +88,11 @@ Here are some ideas to get you started:
 - REST API design with clean separation of concerns
 
 ---
-
 ### 📊 [Sorting Algorithm Visualizer](https://github.com/Gowtham-arja/Sorting-Algorithm-Visualizer)
 > Interactive React app that animates sorting algorithms in real-time
 
 - Visualizes Bubble, Selection, Merge, Quick Sort with animated comparisons and swaps
 - Helps build intuition for algorithm complexity and behavior
-
----
-### ⚙️ [Distributed Task Queue System](https://github.com/Gowtham-arja/distributed-task-queue)
-> Fault-tolerant distributed job queue built with **Java + Spring Boot + Redis + Docker**
-
-- Implements **Redis BRPOP-based queuing** with a 5-state task lifecycle for full traceability
-- Heartbeat/TTL-based liveness detection auto-recovers tasks from crashed workers
-- Dead Letter Queue isolates repeatedly failing tasks instead of losing or endlessly retrying them
-- Real-time **WebSocket dashboard** for live queue depth and worker health monitoring
 ---
 
 ### ⚙️ Mini Online Code Judge *(In Progress)*
