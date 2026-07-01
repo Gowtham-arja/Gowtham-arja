@@ -87,6 +87,14 @@ Here are some ideas to get you started:
 - Helps build intuition for algorithm complexity and behavior
 
 ---
+### ⚙️ [Distributed Task Queue System](https://github.com/Gowtham-arja/distributed-task-queue)
+> Fault-tolerant distributed job queue built with **Java + Spring Boot + Redis + Docker**
+
+- Implements **Redis BRPOP-based queuing** with a 5-state task lifecycle for full traceability
+- Heartbeat/TTL-based liveness detection auto-recovers tasks from crashed workers
+- Dead Letter Queue isolates repeatedly failing tasks instead of losing or endlessly retrying them
+- Real-time **WebSocket dashboard** for live queue depth and worker health monitoring
+---
 
 ### ⚙️ Mini Online Code Judge *(In Progress)*
 > Scalable code execution engine inspired by LeetCode/HackerRank
@@ -100,7 +108,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-arja&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Gowtham-arja&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowtham-arja&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 </p>
 
