@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🧑‍💻 About Me
 
 - 🎓 Final year **Electrical Engineering** student at **NIT Agartala**, self-taught in CS & Software Development
-- 🤝 Contributing to open source via **GSSoC 2026** and **Hacktoberfest**
+- 🤝 Contributing to open source via **Hacktoberfest**
 - 📚 Grinding **DSA** daily and mastering **CS fundamentals** (DBMS, OS, CN, OOPs)
 - 🥈 **2nd place** in school-level Mathematical Olympiad
 - 💬 Ask me about **Java, Spring, Spring Boot, REST APIs, Docker, React**
