@@ -119,6 +119,7 @@ Here are some ideas to get you started:
 - 🏆 **TATA Hackathon** — Participant
 - 🧠 **Amazon ML Summer School 2026** — Cleared Round 1
 - 🥈 **Mathematical Olympiad** — 2nd place (School level)
+- 🎖️ Semi-Finalist at Snapdragon Multiverse Hackathon 2026 organized by Qualcomm.
 
 ---
 
