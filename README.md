@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🥈 **2nd place** in school-level Mathematical Olympiad
 - 💬 Ask me about **Java, Spring, Spring Boot, REST APIs, Docker, React**
 - 🎯 Goal: Land an **SDE role at a product-based company**
+- 🎖️ Semi-Finalist at Snapdragon Multiverse Hackathon 2026 organized by Qualcomm.
 
 ---
 
