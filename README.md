@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final year **Electrical Engineering** student at **NIT Agartala**, self-taught in CS & Software Development
-- 🤝 Contributing to open source via **Hacktoberfest**
-- 📚 Grinding **DSA** daily and mastering **CS fundamentals** (DBMS, OS, CN, OOPs)
-- 🥈 **2nd place** in school-level Mathematical Olympiad
-- 💬 Ask me about **Java, Spring, Spring Boot, REST APIs, Docker, React**
-- 🎯 Goal: Land an **SDE role at a product-based company**
-- 🎖️ Semi-Finalist at Snapdragon Multiverse Hackathon 2026 organized by Qualcomm.
+I’m a final-year B.Tech student at NIT Agartala, passionate about software development and continuously expanding my knowledge beyond my academic background. I enjoy exploring frontend and backend development, building responsive and scalable web applications using **Java, Spring Boot, REST APIs, React.js, JavaScript, MySQL, and Docker**. I’m committed to strengthening my skills through consistent effort and deepening my understanding of core computer science concepts. I actively contribute to open-source projects and enjoy writing clean, maintainable, and efficient code to turn ideas into practical solutions. I also secured **2nd place in a school-level Mathematical Olympiad**. I’m always eager to learn, collaborate, and take on challenging projects, with the ultimate goal of becoming a Software Development Engineer.
 
 ---
 
