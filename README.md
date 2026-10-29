@@ -29,7 +29,7 @@ I’m a final-year B.Tech student at NIT Agartala, passionate about software dev
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 **Languages**
 
