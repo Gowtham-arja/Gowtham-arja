@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <b>Java Full Stack Developer · Spring Boot · React · Docker</b><br/>
-  Final Year B.Tech (EE) @ NIT Agartala · Targeting SDE Roles · Open Source Contributer
+  Final Year B.Tech @ NIT Agartala · Targeting SDE Roles · Open Source Contributer
 </p>
 
 ---
