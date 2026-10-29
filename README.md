@@ -111,7 +111,6 @@ I’m a final-year B.Tech student at NIT Agartala, passionate about software dev
 
 - 🎃 **Hacktoberfest** open source contributor
 - 🏆 **TATA Hackathon** — Participant
-- 🧠 **Amazon ML Summer School 2026** — Cleared Round 1
 - 🥈 **Mathematical Olympiad** — 2nd place (School level)
 - 🎖️ Finalist at Snapdragon Multiverse Hackathon 2026 organized by Qualcomm.
 
