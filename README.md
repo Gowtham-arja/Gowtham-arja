@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey there 👋, I'm Gowtham Sai Kalyan</h1>
+<h1 align="center">Hey there 👋, I'm Gowtham Arja</h1>
 
 <p align="center">
   <b>Java Full Stack Developer · Spring Boot · React · Docker</b><br/>
